@@ -59,7 +59,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository
 ```
-git clone https://github.com/INSANE0777/reviva.git
+git clone https://github.com/INSANE0777/reviva1.git
 cd reviva
 ```
 
@@ -86,5 +86,5 @@ scikit-learn==0.24.2
 This project is open for contributions, and we welcome any feedback or suggestions for improvement. If you find this project useful, feel free to use it for your needs. When attributing this project, please mention:
 ```
 Reviva by Afjal Hussein
-Repository: https://github.com/yourusername/reviva
+Repository: https://github.com/INSANE0777/reviva1
 ```
