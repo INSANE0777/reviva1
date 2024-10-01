@@ -58,7 +58,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository
 ```
-git clone https://github.com/yourusername/reviva.git
+git clone https://github.com/INSANE0777/reviva.git
 cd reviva
 ```
 
