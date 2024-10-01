@@ -47,6 +47,12 @@ BMI score, BMI category, estimated daily calorie needs, and a set of personalize
 
 
 
+
+
+https://github.com/user-attachments/assets/f6e056b0-0668-4669-9052-23602f6bbf06
+
+
+
 ## Instructions to Run
 To run this project locally, follow these steps:
 
