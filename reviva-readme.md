@@ -33,6 +33,12 @@ The Reviva web application provides users with an intuitive interface to input t
 ### Input
 User-provided health data including age, gender, weight, height, activity level, and health goals.
 
+
+
+https://github.com/user-attachments/assets/b6d646ed-0c00-4715-b137-7acd6fc324d0
+
+
+
 ### Data Processing
 - Utilizes a combination of traditional calculations and machine learning models.
 - Employs a Random Forest Classifier for generating personalized recommendations.
