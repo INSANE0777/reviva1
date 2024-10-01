@@ -16,7 +16,7 @@ Developed by Afjal Hussein
 - [Contributions and Acknowledgments](#contributions-and-acknowledgments)
 
 ## Background
-In an era where personalized health recommendations are becoming increasingly important, Reviva aims to provide users with an AI-powered tool for generating tailored health insights. Our application utilizes advanced machine learning techniques to offer personalized health recommendations based on individual user data.
+In an era where personalized health recommendations are becoming increasingly important, Reviva aims to provide users with an AI-powered tool for generating tailored health insights. My application utilizes machine learning techniques to offer personalized health recommendations based on individual user data.
 
 ## Description of Project
 The Reviva web application provides users with an intuitive interface to input their health-related data and receive personalized recommendations. Users can input details such as age, gender, weight, height, activity level, and health goals. The application then utilizes cutting-edge AI algorithms to generate insightful health recommendations, including BMI calculations, calorie needs, and personalized advice.
@@ -84,6 +84,6 @@ scikit-learn==0.24.2
 ## Contributions and Acknowledgments
 This project is open for contributions, and we welcome any feedback or suggestions for improvement. If you find this project useful, feel free to use it for your needs. When attributing this project, please mention:
 ```
-Reviva by [Your Name] & [Your Team Members' Names]
+Reviva by Afjal Hussein
 Repository: https://github.com/yourusername/reviva
 ```
