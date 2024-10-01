@@ -1,16 +1,10 @@
 # Reviva: 🩺 AI-Powered Health Recommendation System
 
-![Reviva Logo](https://placeholder-image-url.com/reviva-logo.png)
-
 ## 🌟 Project Overview
 
 ### Deployed Application: [https://reviva1-5.onrender.com/](https://reviva1-5.onrender.com/)
 
-Developed by [Your Name] and [Your Team Members' Names]
-
-### Video Demo
-
-[Insert video demo link or embed here]
+Developed by Afjal Hussein
 
 ## Table of Contents
 - [Background](#background)
@@ -33,11 +27,6 @@ The Reviva web application provides users with an intuitive interface to input t
 - Estimation of daily calorie needs based on personal factors.
 - AI-generated personalized health recommendations.
 - User-friendly interface for easy data input and result visualization.
-
-[Insert feature infographic or screenshot here]
-
-## AI Algorithm
-[Insert AI algorithm flow diagram here]
 
 ### Input
 User-provided health data including age, gender, weight, height, activity level, and health goals.
