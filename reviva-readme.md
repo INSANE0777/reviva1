@@ -33,12 +33,6 @@ The Reviva web application provides users with an intuitive interface to input t
 ### Input
 User-provided health data including age, gender, weight, height, activity level, and health goals.
 
-
-
-
-
-
-
 ### Data Processing
 - Utilizes a combination of traditional calculations and machine learning models.
 - Employs a Random Forest Classifier for generating personalized recommendations.
@@ -50,6 +44,8 @@ User-provided health data including age, gender, weight, height, activity level,
 
 ### Output
 BMI score, BMI category, estimated daily calorie needs, and a set of personalized health recommendations.
+
+
 
 ## Instructions to Run
 To run this project locally, follow these steps:
