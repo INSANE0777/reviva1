@@ -16,10 +16,11 @@ Developed by Afjal Hussein
 - [Contributions and Acknowledgments](#contributions-and-acknowledgments)
 
 ## Background
-In an era where personalized health recommendations are becoming increasingly important, Reviva aims to provide users with an AI-powered tool for generating tailored health insights. My application utilizes machine learning techniques to offer personalized health recommendations based on individual user data.
+In an era where personalized health recommendations are becoming increasingly important, Reviva aims to provide users with an AI-powered tool for generating
+health insights. My application utilizes machine learning techniques to offer personalized health recommendations based on individual user data.
 
 ## Description of Project
-The Reviva web application provides users with an intuitive interface to input their health-related data and receive personalized recommendations. Users can input details such as age, gender, weight, height, activity level, and health goals. The application then utilizes cutting-edge AI algorithms to generate insightful health recommendations, including BMI calculations, calorie needs, and personalized advice.
+The Reviva web application provides users with an intuitive interface to input their health-related data and receive personalized recommendations. Users can input details such as age, gender, weight, height, activity level, and health goals. The application then utilizes  AI algorithms to generate insightful health recommendations, including BMI calculations, calorie needs, and personalized advice.
 
 ## Features
 - Real-time health analysis based on user-provided data.
