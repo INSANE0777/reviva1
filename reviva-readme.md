@@ -27,6 +27,8 @@ The Reviva web application provides users with an intuitive interface to input t
 - Estimation of daily calorie needs based on personal factors.
 - AI-generated personalized health recommendations.
 - User-friendly interface for easy data input and result visualization.
+- ![image](https://github.com/user-attachments/assets/6bc7b0ce-3875-4b83-aa56-834b420aa828)
+
 
 ### Input
 User-provided health data including age, gender, weight, height, activity level, and health goals.
